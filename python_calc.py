@@ -20,7 +20,7 @@ def percentage(part, total):
 
 def main():
   while True:
-    print("Welcome to the Feature-Rich Calculator!")
+    print("Welcome to the Feature-Rich Calculator  ")
     print("Select an operation:")
     print("1. Addition \n 2. Subtraction \n 3. Multiplication \n 4. Division \n 5. Check Even/Odd \n 6. Calculate Percentage \n 7. Exit")
     choice = input()
